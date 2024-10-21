@@ -21,4 +21,4 @@ pyBudget is a simple command-line application for managing personal finances. It
 3. Run the script using the command:
 
    ```bash
-   python expense_tracker.py
+   python pyBudget.py
